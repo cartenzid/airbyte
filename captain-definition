@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "dockerfileLines": [
     "version: \"3.7\"",
     "#https://github.com/compose-spec/compose-spec/blob/master/spec.md#using-extensions-as-fragments",
